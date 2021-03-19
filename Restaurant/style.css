@@ -159,7 +159,7 @@ body {
   .no
   {
     text-decoration: none;
-    color: white;
+    color: rgb(167, 161, 161);
     font-size: 1em;
     -webkit-transition: color ease-in-out 800ms;
   }
@@ -586,14 +586,14 @@ resize: vertical;
 {
   margin: 0;
   width: 100%;
-  height: auto;
+  height: 70px;
+  padding: 2em;
   display: flex;
  justify-content: space-between;
 }
 .brand 
 {
   width: 100%; 
-  margin: 2em 0;
   display: flex; 
   justify-content: space-between; 
 }
@@ -686,6 +686,11 @@ h1
 {
   width: 95%;
   margin: 10px;
+  text-align: justify;
+}
+.about-h2
+{
+  font-size: 6rem;
 }
 h2
 {
