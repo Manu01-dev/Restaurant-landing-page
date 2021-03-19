@@ -294,6 +294,10 @@ body {
   width: 40%;
   margin-right: 20px;
 }
+.about-h2
+{
+  font-size: 2em;
+}
 h2
 {
   font-size: 18px;
@@ -686,11 +690,6 @@ h1
 {
   width: 95%;
   margin: 10px;
-  text-align: justify;
-}
-.about-h2
-{
-  font-size: 6rem;
 }
 h2
 {
